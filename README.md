@@ -10,37 +10,62 @@
 
 </div>
 
-<br> <br>
+<br>
+
+### 🎓 Education
+> 2020.03 – Present B.Sc. in Computer Engineering, Hansung University
+
+<br>
 
 ### 🏆 Awards 🏆
-| [2024.04.30]  | [2024.09.26]  | [2024.11.27]  |  [2025.02.07]  |
-|:-:|:-:|:-:|:-:|
-| 2024 시스코 이노베이션 챌린지 **장려상**  | 제 20회 한성공학경진대회 **은상**  | 2024 SW중심대학 연합 SW FESTIVAL **최우수상**  | 제 11회 창의융합역량 경진대회 **금상**  |
-| <img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="300px" height="200px"> |<img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="150px" height="200px"> | <img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="130px" height="200px"> |<img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="150px" height="200px"> |
+<details>
+<summary>[2024.04.30] 2024 시스코 이노베이션 챌린지 <strong>장려상</strong></summary>
+<img src="https://github.com/user-attachments/assets/f0fd0a5f-303f-4ed4-a189-da0233df046d" width="400px">
+</details>
 
+<details>
+<summary>[2024.09.26] 제 20회 한성공학경진대회 <strong>은상</strong></summary>
+<img src="https://github.com/user-attachments/assets/c8588ad0-bb9f-4c6f-955c-1d402ad993a7" width="300px">
+</details>
 
-<br><br><br>
+<details>
+<summary>[2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL <strong>최우수상</strong></summary>
+<img src="https://github.com/user-attachments/assets/6dd7d593-c731-4b35-a116-a3dcea67c180" width="300px">
+</details>
 
-### 📕 Papers 📕
-- AI를 활용한 간결한 메모와 공유 시스템: QuickQuick
-[pdf](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf)
+<details>
+<summary>[2025.02.07] 제 11회 창의융합역량 경진대회 <strong>금상</strong></summary>
+<img src="https://github.com/user-attachments/assets/8e762f45-e674-4e83-b378-6ecb4cac36de" width="300px">
+</details>
 
+<details>
+<summary>[2025.05.26] <strong>한성발전공헌상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/550017df-36ef-4e1e-a238-899f6a06f228" width="300px">
+</details>
 
-<br><br><br>
+<details>
+<summary>[2025.05.30] 한성대학교 컴퓨터공학부 캡스톤디자인 작품발표회 <strong>최우수상</strong></summary>
+</details>
 
+<br>
 
-### 👾 Projects 👾
+### 📝 Publications
+* [[논문1]](https://github.com/user-attachments/files/20361207/AI.QuickQuick.pdf) AI를 활용한 간결한 메모와 공유 시스템: QuickQuick
+* [논문2] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가
 
-#### 화장품 용기 분리수거 AIoT 시스템, **_Ecosmetic Bin_**
-🔗 [GitHub Repository](https://github.com/HSU-REPLAY/Ecosmetic-Bin)  
-🗓 **기간:** 2024.04 - 2024.06  
+<br>
 
+### 🚀 Projects
+> #### ♻️ [**_Ecosmetic Bin_**](https://github.com/HSU-REPLAY/Ecosmetic-Bin) <sub><sup>2024.04 – 2024.06</sup></sub>  
+  화장품 용기 분리수거 AIoT 시스템
 
+> #### 🧠 [**_Quick Quick_**](https://github.com/HwangCheese/QuickQuick) <sub><sup>2024.06 – 2024.11</sup></sub>  
+  AI 기반으로 메모와 공유가 간결한 시스템
 
-#### AI 기반으로 메모와 공유가 간결한 시스템, **_Quick Quick_**
-🔗 [GitHub Repository](https://github.com/HwangCheese/QuickQuick)  
-🗓 **기간:** 2024.06 - 2024.11  
-<br><br><br>
+> #### 🎬 [**_VideoSummary_**](https://github.com/HwangCheese/VideoSummary) <sub><sup>2025.03 – 2025.05</sup></sub>  
+  스토리와 하이라이트 중심의 영상 요약 웹 서비스
+
+<br>
 
 ### 💻 Tech Stacks 💻
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
