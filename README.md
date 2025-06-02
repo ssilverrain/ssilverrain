@@ -40,7 +40,7 @@
 
 <details>
 <summary>[2025.05.26] <strong>한성발전공헌상</strong></summary>
-  <img src="https://github.com/user-attachments/assets/550017df-36ef-4e1e-a238-899f6a06f228" width="300px">
+  <img src="https://github.com/user-attachments/assets/65c4ab28-2889-4e6c-9411-f769246fb1b0" width="300px">
 </details>
 
 <details>
