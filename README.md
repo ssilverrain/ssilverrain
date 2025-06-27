@@ -45,6 +45,7 @@
 
 <details>
 <summary>[2025.05.30] 한성대학교 컴퓨터공학부 캡스톤디자인 작품발표회 <strong>최우수상</strong></summary>
+  <img src="https://github.com/user-attachments/assets/f6667949-37d9-44f2-bd0c-a185cac53ab0" width="300px">
 </details>
 
 <br>
